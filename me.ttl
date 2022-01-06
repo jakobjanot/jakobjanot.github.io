@@ -1,0 +1,8 @@
+BASE <http://jakob.janot.dk/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/>
+
+<me>
+a foaf:Person ;
+schema:birthDate "1980-12-08"^^xsd:date ;
