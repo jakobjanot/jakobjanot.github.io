@@ -53,12 +53,12 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am good listener, and I like to learn from colleagues and relevant software com-munities. 
-      I am creative and an experienced software developer, hence I can ra-pidly turn a good idea 
+      I am good listener, and I like to learn from colleagues and relevant software communities. 
+      I am creative and an experienced software developer, hence I can rapidly turn a good idea 
       into a prototype. I have a good understanding of data architecture and knowledge management 
-      and a lot of experience with transfor-mation and analysis of structured as well as unstructured data, 
+      and a lot of experience with transformation and analysis of structured as well as unstructured data, 
       i.e., text, XML, images, biological data etc. I also have over seven years of experience with agile 
-      software development, including test driven development, code reviews, conti-nuous integration, 
+      software development, including test driven development, code reviews, continuous integration, 
       app containerization, cloud services etc.
 
 experiences:
@@ -69,25 +69,25 @@ experiences:
       company: Schultz
       details: |
         - Responsible for automated up-conversion and enrichment of a massive set of complex and very diverse 
-          legislative documents to enable the key feature, §- zoom, of the company’s new product and big investment, 
+          legislative documents to enable the key feature, §-zoom, of the company’s new product and big investment, 
           Schultz Legal Re-search.
         - Education of colleagues in modern XML technologies and Oracle SQL development and help the team adopt a 
-          more data-centric approach to software development.
+          more datacentric approach to software development.
         - Development of several containerized ASP.net services and web applications.
     - role: Systems Architect, Senior Software Engineer
       time: 2014 - 2021
       company: Karnov Group
       details: |
         - Named entity recognizer for fully automized linking of free text references to law, caselaw, books etc.
-        - Harvesting platform that delivers fully automated crawling, uptransforma-tion and validation of pdf and 
+        - Harvesting platform that delivers fully automated crawling, uptransformation and validation of pdf and 
           HTML-content from approx. 50 sources, including danish and swedish governments, courts, boards etc.
         - Platform for merging/migrating a very large number of complex XML documents during the merger of Karnov 
           and Norstedts Juridik. Requirements were bulk processing and validation with low error rate, including 
           real time reporting of progress and quality.
-        - Developed an ontology and a linked data service, which renders Karnov docu-ments into HTML, pdf etc. and
-          exposes metadata in a more customer-friendly/focused vocabulary in machine-readable formats (i.e. RDF)
+        - Developed an ontology and a linked data service, which renders Karnov documents into HTML, pdf etc. and
+          exposes metadata in a more customer-friendly/focused vocabulary in machinereadable formats (i.e. RDF)
         - Detection tool / monitoring dashboard on GDPR violations in Karnov content
-        - Migrated several services and pipelines into a Cloud based continuous inte-gration and deployment platform.
+        - Migrated several services and pipelines into a Cloud based continuous integration and deployment platform.
     - role: Bioinformatics Research Scientist
       time: 2011 - 2014
       company: Exiqon
@@ -117,52 +117,6 @@ education:
       - degree: PRINCE2 Foundation
         university: Metier
         time: 2011
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Slideshows
