@@ -1,0 +1,228 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jakob Janot
+    tagline: Senior Software Engineer<br/> and Data Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jakob@janot.dk
+    phone: +45 30 95 59 90
+    timezone: Europe/Copenhagen
+    citizenship:
+    website: #do not add http://
+    linkedin: jakobkofoedjanot
+    xing: 
+    github: jakobjanot
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Danish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Scout Leader
+          link: 
+
+        - item: Playing the guitar
+          link:
+
+        - item: Commute running
+          link:
+
+career-profile:
+    title: Profile
+    summary: |
+      I am good listener, and I like to learn from colleagues and relevant software com-munities. 
+      I am creative and an experienced software developer, hence I can ra-pidly turn a good idea 
+      into a prototype. I have a good understanding of data architecture and knowledge management 
+      and a lot of experience with transfor-mation and analysis of structured as well as unstructured data, 
+      i.e., text, XML, images, biological data etc. I also have over seven years of experience with agile 
+      software development, including test driven development, code reviews, conti-nuous integration, 
+      app containerization, cloud services etc.
+
+experiences:
+    title: Experiences
+    info:
+    - role: Senior Software Developer
+      time: 2021 - Present
+      company: Schultz
+      details: |
+        - Responsible for automated up-conversion and enrichment of a massive set of complex and very diverse 
+          legislative documents to enable the key feature, §- zoom, of the company’s new product and big investment, 
+          Schultz Legal Re-search.
+        - Education of colleagues in modern XML technologies and Oracle SQL development and help the team adopt a 
+          more data-centric approach to software development.
+        - Development of several containerized ASP.net services and web applications.
+    - role: Systems Architect, Senior Software Engineer
+      time: 2014 - 2021
+      company: Karnov Group
+      details: |
+        - Named entity recognizer for fully automized linking of free text references to law, caselaw, books etc.
+        - Harvesting platform that delivers fully automated crawling, uptransforma-tion and validation of pdf and 
+          HTML-content from approx. 50 sources, including danish and swedish governments, courts, boards etc.
+        - Platform for merging/migrating a very large number of complex XML documents during the merger of Karnov 
+          and Norstedts Juridik. Requirements were bulk processing and validation with low error rate, including 
+          real time reporting of progress and quality.
+        - Developed an ontology and a linked data service, which renders Karnov docu-ments into HTML, pdf etc. and
+          exposes metadata in a more customer-friendly/focused vocabulary in machine-readable formats (i.e. RDF)
+        - Detection tool / monitoring dashboard on GDPR violations in Karnov content
+        - Migrated several services and pipelines into a Cloud based continuous inte-gration and deployment platform.
+    - role: Bioinformatics Research Scientist
+      time: 2011 - 2014
+      company: Exiqon
+      details: |
+        - Oligonucleotide design/analysis (Ruby and C)
+        - Bioinformatics database (Postgresql) development and maintainence.
+        - Analysis pipelines development (R)
+        - Oligonucleotide products development, including Antisense LNA GapmeRs and miRCURY LNA miRNA Mimics.
+    - role: Student Programmer, IT Support, Linux System Administrator
+      time: 2010 - 2011
+      company: Neurobiology Research Unit, Rigshospitalet
+      details: |
+        - System administration of Linux servers used for medical image processing, Windows file share, mail server etc.
+        - Development of survey web application
+
+education:
+    title: Education
+    info:
+      - degree: MSc in Engineering
+        university: Technical University of Denmark
+        time: 2011
+        details: |
+          - Machine Learning and multivariate statistics
+          - Bioinformatics
+          - Digital image and signal processing
+          - Applied mathematics
+      - degree: PRINCE2 Foundation
+        university: Metier
+        time: 2011
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Slideshows
+    papers:
+      - title: RDF
+        link: https://jakob.janot.dk/slides/rdf.html
+        conference: Schultz Fundament Tech Talk
+      - title: XML Schema
+        link: https://jakob.janot.dk/slides/xml-schema.html
+        conference: Schultz Fundament Tech Talk
+      - title: XPath Tutorial
+        link: http://jakob.janot.dk/slides/xpath.html
+        conference: A workshop at Schultz
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Ruby
+        level: 90%
+
+      - name: XSLT & XPath
+        level: 90%
+
+      - name: XML Schema, RelaxNG, Schematron
+        level: 90%
+
+      - name: RDF, SPARQL
+        level: 80%
+
+      - name: Datalog
+        level: 80%
+
+      - name: HTML & CSS
+        level: 80%
+    
+      - name: PostgreSQL
+        level: 80%
+
+      - name: Oracle SQL
+        level: 60%
+      
+      - name: C#
+        level: 50%
+
+      - name: Microsoft SQL Server
+        level: 50%
+
+      - name: Docker
+        level: 50%
+
+      - name: XQuery
+        level: 40%
+      
+      - name: CSS
+        level: 40%
+
+      - name: Python
+        level: 30%
+
+footer: >
+    
