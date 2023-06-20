@@ -70,7 +70,7 @@ experiences:
       details: |
         - Responsible for automated up-conversion and enrichment of a massive set of complex and very diverse 
           legislative documents to enable the key feature, §-zoom, of the company’s new product and big investment, 
-          Schultz Legal Re-search.
+          Schultz Legal Research.
         - Education of colleagues in modern XML technologies and Oracle SQL development and help the team adopt a 
           more datacentric approach to software development.
         - Development of several containerized ASP.net services and web applications.
@@ -92,11 +92,11 @@ experiences:
       time: 2011 - 2014
       company: Exiqon
       details: |
-        - Oligonucleotide design/analysis (Ruby and C)
-        - Bioinformatics database (Postgresql) development and maintainence.
-        - Analysis pipelines development (R)
+        - Oligonucleotide design/analysis
+        - Bioinformatics database development and maintainence
+        - Analysis pipelines development
         - Oligonucleotide products development, including Antisense LNA GapmeRs and miRCURY LNA miRNA Mimics.
-    - role: Student Programmer, IT Support, Linux System Administrator
+    - role: Student IT Support
       time: 2010 - 2011
       company: Neurobiology Research Unit, Rigshospitalet
       details: |
